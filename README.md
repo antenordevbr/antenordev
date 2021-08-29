@@ -1,6 +1,7 @@
 # Hi there 👋
-- 💻 I’m currently working on Frontend
-- 👨‍💻 I’m currently learning Software Enginner
+- 💻 Frontend ReactJs/ReactNative
+- 💻 Backend PHP/Python
+- 👨‍💻 Software engineer
 
 <div>
     <a href="https://github.com/antenordev">
