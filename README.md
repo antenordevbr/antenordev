@@ -1,7 +1,7 @@
 # Hi there 👋
+- 👨‍💻 Software engineer
 - 💻 Frontend ReactJs/ReactNative
 - 💻 Backend PHP/Python
-- 👨‍💻 Software engineer
 - ````Trying out nodejs for embedded systems````
 
 <div>
