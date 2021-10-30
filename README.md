@@ -2,6 +2,7 @@
 - 💻 Frontend ReactJs/ReactNative
 - 💻 Backend PHP/Python
 - 👨‍💻 Software engineer
+````Trying out nodejs for embedded systems````
 
 <div>
     <a href="https://github.com/antenordev">
