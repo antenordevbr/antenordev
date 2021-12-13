@@ -10,12 +10,10 @@
 <br />
 <div align="center">
     <h1>Github stats</h1>
-    <a href="https://github.com/antenordev">
-        <img
-            height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=antenordev&show_icons=true&theme=swift"
-        />
-    </a>
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=antenordev&show_icons=true&theme=swift"
+    />
 </div>
 <br />
 <div align="center">
