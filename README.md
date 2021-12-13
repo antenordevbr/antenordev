@@ -1,3 +1,10 @@
+<!--div align="center">
+    <img
+         src="https://user-images.githubusercontent.com/79403542/145828727-10e98005-dc6f-458c-8014-744832e49881.png"
+         alt="Cover"
+         style="height: 250px; width=250px;"
+     />
+</div-->
 <div>
     <h1># Hi, my name is Antenor 👋</h1>
     <ul>
