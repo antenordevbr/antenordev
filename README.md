@@ -8,7 +8,7 @@
     </ul>
 </div>
 <br />
-<div align="center">
+<div>
     <h1>Github stats</h1>
     <a href="https://github.com/antenordev">
         <img
