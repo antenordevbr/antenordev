@@ -17,7 +17,7 @@
         />
         <img
             height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=antenordev&layout=compact&langs_count=16&theme=dark"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=antenordev&layout=compact&theme=dark"
         />
     </a>
 </div>
