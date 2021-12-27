@@ -6,8 +6,9 @@
      />
 </div>
 
-# Hi, my name is Antenor 👋
+# Who am I?
 
+### Hi, my name is Antenor 👋
 ### 👨‍💻 I'm a software engineering student
 ### 💻 I currently work as a frontend web developer
 ### 🌐 Working with reactjs/nextjs technologies
