@@ -130,13 +130,23 @@
     <h2>Collaborate with me on:</h2>
     <ul>
         <li>
-            <a href="https://github.com/antenordev/convert-kit">
-                Convert Kit - Currency Conversion
+            <a href="https://github.com/antenordev/firegql">
+                FireGQL - Integrating GraphQL with Firebase
             </a>
         </li>
         <li>
-            <a href="https://github.com/antenordev/firegql">
-                FireGQL - Integrating GraphQL with Firebase
+            <a href="https://github.com/antenordev/micro-retry">
+                Micro Retry - Application of MicroServices and Requisition Controls
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/antenordev/multisaas">
+                MultiSaas - Application for SaaS with Wordpress
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/antenordev/builder-cli">
+                Builder CLI - Command Line PHP Builder
             </a>
         </li>
     </ul>
