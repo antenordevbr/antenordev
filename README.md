@@ -5,16 +5,12 @@
          style="height: 250px; width=250px;"
      />
 </div>
-<div>
-    <h1>Hi, my name is Antenor 👋</h1>
-    <ul>
-        <li><h2> 👨‍💻 I'm a software engineering student </h2></li>
-        <li><h2> 💻 I currently work as a frontend web developer </h2></li>
-        <li><h2> 🌐 Working with reactjs/nextjs technologies </h2></li>
-        <li><h2> Trying out nodejs for embedded systems </h2></li>
-        <li><h2> Studying GoLang for Servers and Distributed Microservices </h2></li>
-    </ul>
-</div>
+# Hi, my name is Antenor 👋
+### 👨‍💻 I'm a software engineering student
+### 💻 I currently work as a frontend web developer
+### 🌐 Working with reactjs/nextjs technologies
+### Trying out nodejs for embedded systems
+### Studying GoLang for Servers and Distributed Microservices
 <br />
 <div align="center">
     <h1>Github stats</h1>
