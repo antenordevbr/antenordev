@@ -84,6 +84,27 @@
     />
     <img 
         align="center"
+        alt="PHP"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"
+    />
+    <img 
+        align="center"
+        alt="Bootstrap"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"
+    />
+    <img 
+        align="center"
+        alt="Bootstrap"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"
+    />
+    <img 
+        align="center"
         alt="GoLang"
         height="30"
         width="40"
