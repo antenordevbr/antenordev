@@ -1,18 +1,18 @@
-<!--div align="center">
+<div align="center">
     <img
          src="https://user-images.githubusercontent.com/79403542/145828727-10e98005-dc6f-458c-8014-744832e49881.png"
          alt="Cover"
          style="height: 250px; width=250px;"
      />
-</div-->
+</div>
 <div>
-    <h1># Hi, my name is Antenor 👋</h1>
+    <h1>Hi, my name is Antenor 👋</h1>
     <ul>
-        <li>## 👨‍💻 I'm a software engineering student</li>
-        <li>## 💻 I currently work as a frontend web developer</li>
-        <li>## 🌐 Working with reactjs/nextjs technologies</li>
-        <li>## Trying out nodejs for embedded systems</li>
-        <li>## Studying GoLang for Servers and Distributed Microservices</li>
+        <li><h2> 👨‍💻 I'm a software engineering student </h2></li>
+        <li><h2> 💻 I currently work as a frontend web developer </h2></li>
+        <li><h2> 🌐 Working with reactjs/nextjs technologies </h2></li>
+        <li><h2> Trying out nodejs for embedded systems </h2></li>
+        <li><h2> Studying GoLang for Servers and Distributed Microservices </h2></li>
     </ul>
 </div>
 <br />
@@ -26,6 +26,13 @@
 <br />
 <div align="center">
     <h1>Stacks that work</h1>
+    <img 
+        align="center"
+        alt="GoLang"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"
+    />
     <img 
         align="center"
         alt="React"
