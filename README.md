@@ -13,7 +13,7 @@
 ### 💻 I currently work as a frontend web developer
 ### 🌐 Working with reactjs/nextjs technologies
 ### Trying out nodejs for embedded systems
-### Studying GoLang for Servers and Distributed Microservices
+### Studying GoLang for Servers with Microservices
 
 <br />
 <div align="center">
