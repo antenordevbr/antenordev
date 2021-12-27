@@ -8,7 +8,7 @@
 
 # Hi, my name is Antenor 👋
 
-## 👨‍💻 I'm a software engineering student
+### 👨‍💻 I'm a software engineering student
 - 💻 I currently work as a frontend web developer
 - 🌐 Working with reactjs/nextjs technologies
 - Trying out nodejs for embedded systems
