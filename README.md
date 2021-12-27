@@ -8,10 +8,11 @@
 <div>
     <h1># Hi, my name is Antenor 👋</h1>
     <ul>
-        <li>👨‍💻 I'm a software engineering student</li>
-        <li>💻 I currently work as a frontend web developer</li>
-        <li>🌐 Working with reactjs/nextjs technologies</li>
-        <li>Trying out nodejs for embedded systems</li>
+        <li>## 👨‍💻 I'm a software engineering student</li>
+        <li>## 💻 I currently work as a frontend web developer</li>
+        <li>## 🌐 Working with reactjs/nextjs technologies</li>
+        <li>## Trying out nodejs for embedded systems</li>
+        <li>## Studying GoLang for Servers and Distributed Microservices</li>
     </ul>
 </div>
 <br />
