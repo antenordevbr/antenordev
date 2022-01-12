@@ -129,11 +129,11 @@
 <div>
     <h2>Collaborate with me on:</h2>
     <ul>
-        <li>
+        <!--li>
             <a href="https://github.com/antenordev/firegql">
                 FireGQL - Integrating GraphQL with Firebase
             </a>
-        </li>
+        </li-->
         <li>
             <a href="https://github.com/antenordev/micro-retry">
                 Micro Retry - Application of MicroServices and Requisition Controls
