@@ -144,10 +144,10 @@
                 MultiSaas - Application for SaaS with Wordpress
             </a>
         </li>
-        <li>
+        <!--li>
             <a href="https://github.com/antenordev/builder-cli">
                 Builder CLI - Command Line PHP Builder
             </a>
-        </li>
+        </li-->
     </ul>
 </div>
