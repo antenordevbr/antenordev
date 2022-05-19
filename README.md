@@ -1,17 +1,17 @@
-<div align="center">
+<!--div align="center">
     <img
          src="https://user-images.githubusercontent.com/79403542/145828727-10e98005-dc6f-458c-8014-744832e49881.png"
          alt="Cover"
          style="height: 250px; width=250px;"
      />
-</div>
+</div-->
 
 # Who am I?
 
 ### 👋 Hi, my name is Antenor
 ### 👨‍💻 I'm a software engineering student
-### 💻 I currently work as a frontend web developer
-### 🌐 Working with reactjs/nextjs technologies
+### 💻 I currently work as a devops
+### 🌐 Working with cloud technologies
 ### Trying out nodejs for embedded systems
 ### Studying GoLang for Servers with Microservices
 
