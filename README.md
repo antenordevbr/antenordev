@@ -155,7 +155,7 @@
             </a>
         </li>
         <li>
-            <a href="[https://github.com/antenordev/ged.io](https://github.com/antenordev/api-diff)">
+            <a href="https://github.com/antenordev/api-diff">
                 API Diff - API comparison tool
             </a>
         </li>
