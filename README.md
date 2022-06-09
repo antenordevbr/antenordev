@@ -20,7 +20,7 @@
     <h1>Github stats</h1>
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=antenordev&show_icons=true&theme=swift"
+        src="https://github-readme-stats.vercel.app/api?username=antenordev&show_icons=true&theme=swift&count_private=true"
     />
 </div>
 <br />
