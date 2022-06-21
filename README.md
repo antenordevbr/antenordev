@@ -159,5 +159,10 @@
                 API Diff - API comparison tool
             </a>
         </li>
+        <li>
+            <a href="https://github.com/antenordev/proxy2cors">
+                Proxy to Cors - Forwards requests to external apis with CORS
+            </a>
+        </li>
     </ul>
 </div>
