@@ -27,74 +27,81 @@
 <div align="center">
     <h1>Stacks that work</h1>
     <img 
-        align="center" 
-        alt="git" 
-        height="30" 
-        width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-    />
-    <img 
-        align="center" 
-        alt="HTML" 
-        height="30" 
-        width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    />
-    <img 
-        align="center" 
-        alt="CSS" 
-        height="30" 
-        width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    />
-    <img 
-        align="center" 
-        alt="Js" 
-        height="30" 
-        width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
-    />
-    <img 
-        align="center" 
-        alt="Js" 
-        height="30" 
-        width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-    />
-    <img 
         align="center"
-        alt="React"
-        height="30"
+        alt="ReactJS e React Native"
+        height="auto"
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     />
     <img 
-        align="center" 
-        alt="Redux" 
-        height="30" 
-        width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+        align="center"
+        alt="NextJS"
+        height="auto"
+        width="40"
+        src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
     />
     <img 
         align="center" 
-        alt="nodejs" 
-        height="30" 
+        alt="Typescript" 
+        height="auto"
+        width="40" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+    />
+    <img 
+        align="center" 
+        alt="NodeJS" 
+        height="auto"
         width="40" 
         src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
     />
     <img 
         align="center"
         alt="PHP"
-        height="30"
-        width="40"
+        height="auto"
+        width="50"
         src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"
     />
     <img 
         align="center"
         alt="GoLang"
-        height="30"
+        height="auto"
         width="40"
         src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"
+    />
+    <img 
+        align="center"
+        alt="Docker"
+        height="auto"
+        width="40"
+        src="https://www.svgrepo.com/show/331370/docker.svg"
+    />
+    <img 
+        align="center"
+        alt="Kubernetes"
+        height="auto"
+        width="40"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"
+    />
+    <img 
+        align="center"
+        alt="Ansible"
+        height="auto"
+        width="30"
+        src="https://icons-for-free.com/download-icon-Ansible+Alt-1324888693575869786_0.svg"
+    />
+    <img 
+        align="center"
+        alt="Terraform"
+        height="auto"
+        width="50"
+        src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/541/formation-terraform.png"
+    />
+    <img 
+        align="center"
+        alt="AWS"
+        height="auto"
+        width="40"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"
     />
 </div>
 <br />
@@ -111,7 +118,7 @@
         />
     </a>
     <a 
-        href="https://www.linkedin.com/in/antenor-pires-256b791b5/" 
+        href="https://www.linkedin.com/in/antenorpires/"
         target="_blank"
     >
         <img 
