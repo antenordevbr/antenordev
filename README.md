@@ -37,8 +37,7 @@
         align="center"
         alt="NextJS"
         height="auto"
-        width="40"
-        src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
+        width="40"   src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"
     />
     <img 
         align="center" 
@@ -86,8 +85,8 @@
         align="center"
         alt="Ansible"
         height="auto"
-        width="30"
-        src="https://icons-for-free.com/download-icon-Ansible+Alt-1324888693575869786_0.svg"
+        width="40"
+        src="https://ansible-doc-zh.readthedocs.io/zh/latest/_static/images/logo_invert.png"
     />
     <img 
         align="center"
@@ -136,24 +135,9 @@
 <div>
     <h2>Collaborate with me on:</h2>
     <ul>
-        <!--li>
-            <a href="https://github.com/antenordev/firegql">
-                FireGQL - Integrating GraphQL with Firebase
-            </a>
-        </li-->
         <li>
             <a href="https://github.com/antenordev/micro-retry">
                 Micro Retry - Application of MicroServices and Requisition Controls
-            </a>
-        </li>
-        <!--li>
-            <a href="https://github.com/antenordev/builder-cli">
-                Builder CLI - Command Line PHP Builder
-            </a>
-        </li-->
-        <li>
-            <a href="https://github.com/antenordev/multisaas">
-                MultiSaas - Application for SaaS with Wordpress
             </a>
         </li>
         <li>
@@ -167,8 +151,18 @@
             </a>
         </li>
         <li>
+            <a href="https://github.com/antenordev/routine-dbs">
+                Routine Databases - Backup routine for databases with logs
+            </a>
+        </li>
+        <li>
             <a href="https://github.com/antenordev/proxy2cors">
                 Proxy to Cors - Forwards requests to external apis with CORS
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/antenordev/firegql">
+                FireGQL - Integrating GraphQL with Firebase
             </a>
         </li>
     </ul>
