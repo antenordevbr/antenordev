@@ -142,7 +142,7 @@
         </li>
         <li>
             <a href="https://github.com/antenordev/ged.io">
-                GED.io - Gerenciador Estratégico de Dados
+                GED.io - Strategic Data Manager
             </a>
         </li>
         <li>
