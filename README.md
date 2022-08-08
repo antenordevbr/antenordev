@@ -1,10 +1,10 @@
-<!--div align="center">
+<div align="center">
     <img
          src="https://user-images.githubusercontent.com/79403542/145828727-10e98005-dc6f-458c-8014-744832e49881.png"
          alt="Cover"
          style="height: 250px; width=250px;"
      />
-</div-->
+</div>
 
 # Who am I?
 
@@ -141,11 +141,6 @@
             </a>
         </li>
         <li>
-            <a href="https://github.com/antenordev/ged.io">
-                GED.io - Strategic Data Manager
-            </a>
-        </li>
-        <li>
             <a href="https://github.com/antenordev/api-diff">
                 API Diff - API comparison tool
             </a>
@@ -161,8 +156,8 @@
             </a>
         </li>
         <li>
-            <a href="https://github.com/antenordev/firegql">
-                FireGQL - Integrating GraphQL with Firebase
+            <a href="https://github.com/antenordev/pipeline-boilerplate">
+                Pipeline Boilerplate - Workflow CI/CD with Environments to Approve
             </a>
         </li>
     </ul>
