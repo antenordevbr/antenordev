@@ -1,11 +1,3 @@
-<div align="center">
-    <img
-         src="https://user-images.githubusercontent.com/79403542/145828727-10e98005-dc6f-458c-8014-744832e49881.png"
-         alt="Cover"
-         style="height: 250px; width=250px;"
-     />
-</div>
-
 # Who am I?
 
 ### 👋 Hi, my name is Antenor
@@ -15,16 +7,14 @@
 ### Trying out nodejs for embedded systems
 ### Studying GoLang for Servers with Microservices
 
-<br />
-<div align="center">
-    <h1>Github stats</h1>
-    <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=antenordev&show_icons=true&theme=swift&count_private=true"
-    />
-</div>
-<br />
-<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antenordev&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antenordev&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antenordev&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antenordev&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antenordev&theme=github)
+
+
+<div>
     <h1>Stacks that work</h1>
     <img 
         align="center"
@@ -103,62 +93,16 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"
     />
 </div>
-<br />
-<br />
-<div align="right">
-    <h2>Where to find me</h2>
-    <a 
-    href="https://www.youtube.com/channel/UCoZlatvwcHl_FU-S0ykowqg" 
-    target="_blank"
-    >
-        <img 
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-            target="_blank"
-        />
-    </a>
-    <a 
-        href="https://www.linkedin.com/in/antenorpires/"
-        target="_blank"
-    >
-        <img 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-            target="_blank"
-        />
-    </a> 
-    <a href="mailto:antenorpires.6@gmail.com">
-            <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-            target="_blank"
-        />
-    </a>
-</div>
-<br />
-<div>
-    <h2>Collaborate with me on:</h2>
-    <ul>
-        <li>
-            <a href="https://github.com/antenordev/micro-retry">
-                Micro Retry - Application of MicroServices and Requisition Controls
-            </a>
-        </li>
-        <li>
-            <a href="https://github.com/antenordev/api-diff">
-                API Diff - API comparison tool
-            </a>
-        </li>
-        <li>
-            <a href="https://github.com/antenordev/routine-dbs">
-                Routine Databases - Backup routine for databases with logs
-            </a>
-        </li>
-        <li>
-            <a href="https://github.com/antenordev/proxy2cors">
-                Proxy to Cors - Forwards requests to external apis with CORS
-            </a>
-        </li>
-        <li>
-            <a href="https://github.com/antenordev/pipeline-boilerplate">
-                Pipeline Boilerplate - Workflow CI/CD with Environments to Approve
-            </a>
-        </li>
-    </ul>
-</div>
+
+# Where to find me
+[![Github](https://img.shields.io/github/followers/antenordev?label=Follow&style=social)](https://github.com/antenordev)
+[![Github](https://img.shields.io/youtube/channel/subscribers/UCoZlatvwcHl_FU-S0ykowqg?style=social)](https://www.youtube.com/channel/UCoZlatvwcHl_FU-S0ykowqg)
+[![Github](https://img.shields.io/badge/LinkedIn-antenorpires-blue)](https://www.linkedin.com/in/antenorpires)
+
+# Collaborate with me on:
+
+- [Micro Retry - Application of MicroServices and Requisition Controls](https://github.com/antenordev/micro-retry)
+- [API Diff - API comparison tool](https://github.com/antenordev/api-diff)
+- [Routine Databases - Backup routine for databases with logs](https://github.com/antenordev/routine-dbs)
+- [Proxy to Cors - Forwards requests to external apis with CORS](https://github.com/antenordev/proxy2cors)
+- [Pipeline Boilerplate - Workflow CI/CD with Environments to Approve](https://github.com/antenordev/pipeline-boilerplate)
