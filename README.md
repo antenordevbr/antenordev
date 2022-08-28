@@ -15,7 +15,7 @@
 
 
 <div>
-    <h1>Stacks that work</h1>
+    <h1>Technologies I work</h1>
     <img 
         align="center"
         alt="ReactJS e React Native"
