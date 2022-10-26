@@ -15,7 +15,7 @@
 
 <div>
     <a href="#">
-        <img alt="Antenor's Contribution Graph Details" src="https://activity-graph.herokuapp.com/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=0D1117&color=7CFC00&line=7CFC00&point=5ce1e6&hide_border=true"/>
+        <img alt="Antenor's Contribution Graph Details" src="https://activity-graph.herokuapp.com/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=white&color=blue&line=green&point=5ce1e6&hide_border=true"/>
     </a>
 </div>
    
