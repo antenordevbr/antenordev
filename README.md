@@ -13,6 +13,16 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antenordev&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antenordev&theme=github)
 
+<div>
+    <a href="#">
+        <img alt="Antenor's Contribution Graph Details" src="https://activity-graph.herokuapp.com/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=0D1117&color=7CFC00&line=7CFC00&point=5ce1e6&hide_border=true"/>
+    </a>
+</div>
+   
+<div align="center">
+    <h1>Achievements</h1>
+    <img src="https://github-profile-trophy.vercel.app/?username=antenordev" />
+</div>
 
 <div>
     <h1>Technologies I work</h1>
