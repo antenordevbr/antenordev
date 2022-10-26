@@ -7,23 +7,6 @@
 ### Trying out nodejs for embedded systems
 ### Studying GoLang for Servers with Microservices
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antenordev&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antenordev&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antenordev&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antenordev&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antenordev&theme=github)
-
-<div>
-    <a href="#">
-        <img alt="Antenor's Contribution Graph Details" src="https://activity-graph.herokuapp.com/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=FFFFFF&color=4169E1&line=32CD32&point=5ce1e6&hide_border=true"/>
-    </a>
-</div>
-   
-<div align="center">
-    <h1>Achievements</h1>
-    <img src="https://github-profile-trophy.vercel.app/?username=antenordev" />
-</div>
-
 <div>
     <h1>Technologies I work</h1>
     <img 
@@ -102,6 +85,23 @@
         width="40"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"
     />
+</div>
+<br />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antenordev&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antenordev&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antenordev&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antenordev&theme=github)
+
+<div>
+    <a href="#">
+        <img alt="Antenor's Contribution Graph Details" src="https://activity-graph.herokuapp.com/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=FFFFFF&color=4169E1&line=32CD32&point=5ce1e6&hide_border=true"/>
+    </a>
+</div>
+   
+<div>
+    <h1>Achievements</h1>
+    <img src="https://github-profile-trophy.vercel.app/?username=antenordev&column=10" />
 </div>
 
 # Where to find me
