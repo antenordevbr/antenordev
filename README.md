@@ -8,7 +8,7 @@
 ### Studying GoLang for Servers with Microservices
 
 <div>
-    <h1>Technologies I work</h1>
+    <h1>Stacks</h1>
     <img 
         align="center"
         alt="ReactJS e React Native"
