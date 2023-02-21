@@ -7,13 +7,6 @@
 # Stack
 <div>    
     <img 
-        align="center"
-        alt="PHP"
-        height="auto"
-        width="50"
-        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"
-    />
-    <img 
         align="center" 
         alt="NodeJS" 
         height="auto"
@@ -22,31 +15,10 @@
     />
     <img 
         align="center"
-        alt="GoLang"
-        height="auto"
-        width="40"
-        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"
-    />
-    <img 
-        align="center"
         alt="Docker"
         height="auto"
         width="40"
         src="https://www.svgrepo.com/show/331370/docker.svg"
-    />
-    <img 
-        align="center"
-        alt="Kubernetes"
-        height="auto"
-        width="40"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"
-    />
-    <img 
-        align="center"
-        alt="Ansible"
-        height="auto"
-        width="40"
-        src="https://ansible-doc-zh.readthedocs.io/zh/latest/_static/images/logo_invert.png"
     />
     <img 
         align="center"
