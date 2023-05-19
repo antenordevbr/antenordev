@@ -1,7 +1,7 @@
 # Who am I?
 ### 👋 Hello, my name is Antenor
 ### 👨‍💻 I'm a software engineering student
-### 💻 I currently work as a DevOps
+### 💻 I currently work as a Platform Engineer
 ### 🌐 Working with cloud technologies
 
 # Stack
