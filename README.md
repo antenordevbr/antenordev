@@ -50,14 +50,11 @@
     />
 </div>
 
-# Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antenordev&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antenordev&theme=github)
-
-[![Antenor's Contribution Graph Details](https://github-readme-activity-graph.vercel.app/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=FFFFFF&color=4169E1&line=32CD32&point=5ce1e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 # Achievements
 ![](https://github-profile-trophy.vercel.app/?username=antenordev&column=10)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antenordev&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antenordev&theme=github)
+[![Antenor's Contribution Graph Details](https://github-readme-activity-graph.vercel.app/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=FFFFFF&color=4169E1&line=32CD32&point=5ce1e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Where to find me
 [![Github](https://img.shields.io/github/followers/antenordev?label=Follow&style=social)](https://github.com/antenordev)
