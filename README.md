@@ -29,10 +29,24 @@
     />
     <img 
         align="center"
+        alt="Ansible"
+        height="auto"
+        width="40"
+        src="https://redhat.gallerycdn.vsassets.io/extensions/redhat/ansible/2.6.92/1690896427507/Microsoft.VisualStudio.Services.Icons.Default"
+    />
+    <img 
+        align="center"
         alt="AWS"
         height="auto"
         width="40"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"
+    />
+    <img 
+        align="center"
+        alt="GCP"
+        height="auto"
+        width="40"
+        src="https://static-00.iconduck.com/assets.00/google-cloud-platform-icon-1024x823-mrdn81d1.png"
     />
 </div>
 
@@ -40,7 +54,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antenordev&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antenordev&theme=github)
 
-[![Antenor's Contribution Graph Details](https://github-readme-activity-graph.cyclic.app/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=FFFFFF&color=4169E1&line=32CD32&point=5ce1e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Antenor's Contribution Graph Details](https://github-readme-activity-graph.vercel.app/graph?username=antenordev&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=FFFFFF&color=4169E1&line=32CD32&point=5ce1e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Achievements
 ![](https://github-profile-trophy.vercel.app/?username=antenordev&column=10)
