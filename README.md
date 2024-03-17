@@ -6,27 +6,34 @@
 
 # Stack
 <div>    
-    <img 
+<!--     <img 
         align="center" 
         alt="nodejs" 
         height="auto"
         width="40" 
         src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
-    />
-    <img 
+    /> -->
+<!--     <img 
         align="center" 
         alt="golang" 
         height="auto"
         width="40" 
         src="https://www.nicepng.com/png/full/370-3707528_65159967-golang-logo.png"
-    />
-    <img 
+    /> -->
+<!--     <img 
         align="center" 
         alt="python" 
         height="auto"
         width="40" 
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
-    />
+    /> -->
+<!--     <img 
+        align="center"
+        alt="bubble.io"
+        height="auto"
+        width="40"
+        src="https://s3.amazonaws.com/appforest_uf/f1530294839424x143528842134401200/Icon-no-clearspace.png"
+    /> -->
     <img 
         align="center"
         alt="docker"
