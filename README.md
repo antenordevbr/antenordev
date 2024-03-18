@@ -5,35 +5,7 @@
 ### 🌐 Working with cloud technologies
 
 # Stack
-<div>    
-<!--     <img 
-        align="center" 
-        alt="nodejs" 
-        height="auto"
-        width="40" 
-        src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
-    /> -->
-<!--     <img 
-        align="center" 
-        alt="golang" 
-        height="auto"
-        width="40" 
-        src="https://www.nicepng.com/png/full/370-3707528_65159967-golang-logo.png"
-    /> -->
-<!--     <img 
-        align="center" 
-        alt="python" 
-        height="auto"
-        width="40" 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
-    /> -->
-<!--     <img 
-        align="center"
-        alt="bubble.io"
-        height="auto"
-        width="40"
-        src="https://s3.amazonaws.com/appforest_uf/f1530294839424x143528842134401200/Icon-no-clearspace.png"
-    /> -->
+<div>
     <img 
         align="center"
         alt="docker"
@@ -84,12 +56,6 @@
         src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/1200px-Datadog_logo.svg.png"
     />
 </div>
-
-# Achievements
-![](https://github-profile-trophy.vercel.app/?username=antenordevbr&column=10)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antenordevbr&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antenordevbr&theme=github)
-[![Antenor's Contribution Graph Details](https://github-readme-activity-graph.vercel.app/graph?username=antenordevbr&custom_title=Antenor's%20Contribution%20Graph%20Details&bg_color=FFFFFF&color=4169E1&line=32CD32&point=5ce1e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Where to find me
 [![Github](https://img.shields.io/github/followers/antenordevbr?label=Follow&style=social)](https://github.com/antenordevbr)
